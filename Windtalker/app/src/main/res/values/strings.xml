@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Windtalker</string>
+    <string name="login_title">Login</string>
+    <string name="interact_title">ActivityMain</string>
+    <string name="contact_title">Contacts</string>
+    <string name="contact_share_title">Windtalker Contact</string>
+    <string name="contact_share_text">I would like to share this contact with you: \n</string>
+    <string name="contact_share_choose">Choose an app</string>
+</resources>

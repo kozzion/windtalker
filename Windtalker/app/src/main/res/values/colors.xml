@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="NVMTransparantWhite">#00ffffff</color> <!-- -->
+    <color name="NVMWhite">#ffffff</color> <!-- Titles -->
+    <color name="NVMMediumGrey">#c8c8c8</color> <!-- Rating stars bars unseleceted -->
+    <color name="NVMDarkGrey">#606060</color> <!-- -->
+
+    <color name="NVMBlack">#000000</color> <!-- Text -->
+    <color name="NVMRed">#ff0000</color> <!-- Settings logout button -->
+
+    <color name="NVMDarkBlue">#0c336c</color> <!-- Titles and login button -->
+    <!--<color name="NVMLightBlue">	#11499b</color> -->
+    <color name="NVMPink">#c42f84</color> <!-- Bottom button and login -->
+    <color name="NVMGreen">#c0c700</color> <!-- Status bars -->
+    <color name="NVMGold">#ffd700</color> <!-- Rating stars selected -->
+
+    <color name="NVMLightPastel">#f9fafc</color> <!-- UI backgrounds-->
+    <color name="NVMLightPastelTransparant">#e0f9fafc</color> <!-- Onboarding-->
+    <color name="NVMDarkPastel">#e7ecf5</color> <!-- UI elements, Rating stars bars disabled, checks disabled-->
+
+
+    <color name="NVMShadowStart">#60606060</color>
+</resources>

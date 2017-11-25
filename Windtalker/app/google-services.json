@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "896962971369",
+    "firebase_url": "https://windtalker-fc3fc.firebaseio.com",
+    "project_id": "windtalker-fc3fc",
+    "storage_bucket": "windtalker-fc3fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896962971369:android:cdf929beebf26079",
+        "android_client_info": {
+          "package_name": "com.windtalker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896962971369-dc2f0v69on6uevo81rndsm3m2o585b0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLkQqSKBc3sRmMVvhxwj94iw-pOBZndH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
